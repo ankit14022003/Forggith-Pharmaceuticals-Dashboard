@@ -86,7 +86,7 @@ Forggith_PowerBI_Dashboard/
 ---
 
 ### 3️⃣ **Product Performance Overview**
-![Product Overview](Assets/page3-product-performance.png)
+![Product Overview](Forggith_Pharmaceutical_Dashboard/Assets/page3-product-performance.png)
 
 ---
 
