@@ -63,8 +63,7 @@ Forggith_PowerBI_Dashboard/
 
 ---
 
-##📈 **Skills Demonstrated**
-
+## 📈 **Skills Demonstrated**
 -✅ Data Modeling in Power BI
 -📐 DAX Measures (KPIs, Variance, YTD)
 -🎨 Custom Theming & Visual Layout
@@ -74,12 +73,12 @@ Forggith_PowerBI_Dashboard/
 
 ---
 
-##🌐 **Power BI Web Report Link**
+## 🌐 **Power BI Web Report Link**
 https://app.powerbi.com/view?r=eyJrIjoiNDdmOGYyOGQtOTk2Ny00MDE4LWIwYTItOGVkMDUzYTQ5ZmIxIiwidCI6IjlmNTJhMTk0LTU5MDMtNGIzOS1hNTM0LTA4NzMwZGIxY2IyYiJ9
 
 ---
 
-##⚠️ **Disclaimer**
+## ⚠️ **Disclaimer**
 This project was built for educational and internship purposes only.
 All data is used solely for dashboard development practice.
 
