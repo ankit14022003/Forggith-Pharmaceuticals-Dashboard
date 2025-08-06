@@ -3,7 +3,7 @@
 This Power BI report was developed as part of the **Power BI Developer Internship** at **ForesightBI**.  
 It visualizes the **sales performance**, **product analysis**, **rep tracking**, and **location-based insights** for Forggith Pharmaceuticals.
 
-> 📅 Duration: 2025 Internship  
+> 📅 Duration: August 2025 Internship  
 > 👨‍💻 Created by: Ankit Chaudhary
 
 ---
@@ -60,7 +60,7 @@ Forggith_PowerBI_Dashboard/
 └── PowerBI_Report_Link.docx
 ```
 
-##📈 Skills Demonstrated
+###📈 Skills Demonstrated
 
 -✅ Data Modeling in Power BI
 -📐 DAX Measures (KPIs, Variance, YTD)
