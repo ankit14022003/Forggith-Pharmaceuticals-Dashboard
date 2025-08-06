@@ -81,7 +81,7 @@ Forggith_PowerBI_Dashboard/
 ---
 
 ### 2️⃣ **Sales Rep Overview**
-![Sales Rep Overview](Assets/page2-sales-rep-overview.png)
+![Sales Rep Overview](Forggith_Pharmaceutical_Dashboard/Assets/page2-sales-rep-overview.png)
 
 ---
 
