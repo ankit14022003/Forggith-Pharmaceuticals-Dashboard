@@ -73,6 +73,28 @@ Forggith_PowerBI_Dashboard/
 
 ---
 
+## 🖼️ **Dashboard Page Previews**
+
+### 1️⃣ **Sales Overview**
+![Sales Overview](assets/page1-sales-overview.png)
+
+---
+
+### 2️⃣ **Sales Rep Overview**
+![Sales Rep Overview](assets/page2-sales-rep-overview.png)
+
+---
+
+### 3️⃣ **Product Performance Overview**
+![Product Overview](assets/page3-product-performance.png)
+
+---
+
+### 4️⃣ **Location Performance Overview**
+![Location Overview](assets/page4-location-overview.png)
+
+---
+
 ## 🌐 **Power BI Web Report Link**
 https://app.powerbi.com/view?r=eyJrIjoiNDdmOGYyOGQtOTk2Ny00MDE4LWIwYTItOGVkMDUzYTQ5ZmIxIiwidCI6IjlmNTJhMTk0LTU5MDMtNGIzOS1hNTM0LTA4NzMwZGIxY2IyYiJ9
 
