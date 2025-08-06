@@ -76,7 +76,7 @@ Forggith_PowerBI_Dashboard/
 ## 🖼️ **Dashboard Page Previews**
 
 ### 1️⃣ **Sales Overview**
-![Sales Overview](Assets/page1-sales-overview.png)
+![Sales Overview](Forggith_Pharmaceutical_Dashboard/Assets/page1-sales-overview.png)
 
 ---
 
