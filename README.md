@@ -101,7 +101,6 @@ https://app.powerbi.com/view?r=eyJrIjoiNDdmOGYyOGQtOTk2Ny00MDE4LWIwYTItOGVkMDUzY
 ---
 
 ## ⚠️ **Disclaimer**
-This project was built for educational and internship purposes only.
-All data is used solely for dashboard development practice.
+This project was built for educational and internship purposes only.                                                                                            All data is used solely for dashboard development practice.
 
 ---
