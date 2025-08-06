@@ -76,22 +76,22 @@ Forggith_PowerBI_Dashboard/
 ## 🖼️ **Dashboard Page Previews**
 
 ### 1️⃣ **Sales Overview**
-![Sales Overview](assets/page1-sales-overview.png)
+![Sales Overview](Assets/page1-sales-overview.png)
 
 ---
 
 ### 2️⃣ **Sales Rep Overview**
-![Sales Rep Overview](assets/page2-sales-rep-overview.png)
+![Sales Rep Overview](Assets/page2-sales-rep-overview.png)
 
 ---
 
 ### 3️⃣ **Product Performance Overview**
-![Product Overview](assets/page3-product-performance.png)
+![Product Overview](Assets/page3-product-performance.png)
 
 ---
 
 ### 4️⃣ **Location Performance Overview**
-![Location Overview](assets/page4-location-overview.png)
+![Location Overview](Assets/page4-location-overview.png)
 
 ---
 
