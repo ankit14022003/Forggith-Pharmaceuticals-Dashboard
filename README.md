@@ -91,7 +91,7 @@ Forggith_PowerBI_Dashboard/
 ---
 
 ### 4️⃣ **Location Performance Overview**
-![Location Overview](Assets/page4-location-overview.png)
+![Location Overview](Forggith_Pharmaceutical_Dashboard/Assets/page4-location-overview.png)
 
 ---
 
