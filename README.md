@@ -47,7 +47,7 @@ It visualizes the **sales performance**, **product analysis**, **rep tracking**,
 ## 📁 Project Files & Structure
 
 ```plaintext
-Forggith_PowerBI_Dashboard/
+Forggith_Pharmaceutical_Dashboard/
 ├── Forggith Pharmaceuticals.pbix           ← Main Power BI file
 ├── Forggith_Pharmaceutials_Report.pdf         ← Exported PDF
 ├── README.md                         ← This file
