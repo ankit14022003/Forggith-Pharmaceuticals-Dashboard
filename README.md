@@ -64,12 +64,12 @@ Forggith_PowerBI_Dashboard/
 ---
 
 ## 📈 **Skills Demonstrated**
--✅ Data Modeling in Power BI
--📐 DAX Measures (KPIs, Variance, YTD)
--🎨 Custom Theming & Visual Layout
--🎛️ Slicers & Interactivity
--📊 Charts: Bar, Column, Pie, Map, Matrix
--🧠 Problem Solving & Design Thinking
+- ✅ Data Modeling in Power BI
+- 📐 DAX Measures (KPIs, Variance, YTD)
+- 🎨 Custom Theming & Visual Layout
+- 🎛️ Slicers & Interactivity
+- 📊 Charts: Bar, Column, Pie, Map, Matrix
+- 🧠 Problem Solving & Design Thinking
 
 ---
 
